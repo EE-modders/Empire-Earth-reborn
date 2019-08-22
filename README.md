@@ -1,4 +1,4 @@
-# Empire Earth reborn - an Empire Earth mod
+# Empire Earth reborn - an Empire Earth modpack
 official repo of the Empire Earth reborn mod (new models, textures, gameplay etc.)
 
 This project may look inactive, but that's because most of the discussions take place on our Discord server.

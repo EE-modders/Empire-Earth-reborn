@@ -8,7 +8,7 @@ Feel free to join us there as well: [Empire Earth Reborn Discord](https://discor
 
 ### Current Roadmap
 
-###### part 1 "reborn HD":
+##### part 1 "Reborn HD":
 
 - new and enhanced textures / backgrounds
 - enhanced models
@@ -17,7 +17,7 @@ Feel free to join us there as well: [Empire Earth Reborn Discord](https://discor
 - no gameplay changes
 - full compatibility with multiplayer and NeoEE
 
-###### part 2 "reborn lite":
+##### part 2 "Reborn lite":
 
 - new models and units
 - reworked menus and buttons
@@ -27,7 +27,7 @@ Feel free to join us there as well: [Empire Earth Reborn Discord](https://discor
 - updated balance and values etc
 - updated / refined artwork
 
-###### part 3 "reborn full":
+##### part 3 "Reborn full":
 
 - new models and techtree
 - new content / maps / campaigns

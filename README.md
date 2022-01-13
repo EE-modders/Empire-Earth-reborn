@@ -10,9 +10,9 @@ Feel free to join us there as well: [Empire Earth Reborn Discord](https://discor
 
 ##### part 1 "Reborn HD":
 
+- resolution, video and camera fixes
 - new and enhanced textures / backgrounds
 - enhanced models
-- DreXmod (FHD main menu)
 - some visual enhancements
 - no gameplay changes
 - full compatibility with multiplayer and NeoEE
